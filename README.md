@@ -1,2 +1,2 @@
 # hello-world
-My depository
+My repository
